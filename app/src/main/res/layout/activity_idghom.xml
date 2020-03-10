@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="390dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".idghom">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:orientation="vertical" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:text="Idgham\n\n\na. Pengertian Idgham
+    \n\nMenurut Muhammad Mahmud, idgham dalam arti bahasa\n berarti: إِدْخَالُ الشَّيْئِ فِى الشَّيْئِ  (Memasukkan sesuatu pada sesuatu). Arti ini jika dikembangkan berarti memasukkan huruf nun mati pada \nidgham.
+
+    \nSedangkan dalam arti istilah idgham berarti:\n
+
+    الاِدْغَامُ هُوَ اِلْتِقَاءُ حَرْفٍ سَاكِنٍ بِمُتَحَرِّكٍ بِحَيْثُ يَصِيْرَانِ حَرْفًا مُشَدَّدًا
+    \n“Pertemuan huruf yang mati dengan huruf yang hidup sehingga kedua huruf itu menjadi satu huruf yang ditasydid”.
+
+    \nDari pengertian diatas, tampak bahwa cara membaca bacaan idgham adalah memasukkan nun mati atau tanwin pada huruf-huruf idgham, dan seakan-akan kedua huruf itu menjadi satu. Seperti huruf-huruf yang ditasydid walaupun asal kedua huruf ini tidak bertasydid.
+
+    \n\nb. Huruf-huruf Idgham\n
+    \nHuruf idgham ada 6 macam, yang terkumpul pada rumus : يَرْمِلُوْنَ
+
+    \nsehingga jika ada nun mati dan tanwin bertemu salah satu keenam huruf tersebut, maka nun mati dan tanwin tersebut harus dimasukkan padanya. Keenam huruf itu ada yang dibaca mendengung ada yang tidak, karena itu idgham terbagi menjadi dua macam.
+
+    \n\nc. Pembagian Idgham\n
+
+    \nIdgham Bighunnah (ادغام بغنة )
+    \nIdgham Bilaghunnah ( ادغام بلاغنة )
+    \nIdgham bighunnah sebagaimana dalam pengertian di atas,\n adalah membunyikan nun mati atau tanwin dengan \nmemasukkan pada huruf idgham bighunnah, \nyaitu : يَنْمُوْ (ya’, nun, mim, wawu) disertai mendengung. \nCara membunyikannya harus memasukkan nun mati atau tanwin pada keempat huruf tersebut:
+    \nContoh:
+    \n
+    \nTertulis	مِنْ مَالــٍ	مِمْ مَالــنْ Dibaca	 Sebab  م  bertemu ن
+    \nTertulis	مَاءٍ مُصَفًّى	مَائِمْ مُصَفّنْ Dibaca	 Sebab  م  bertemu  ـــٍــ
+    \nTertulis	مِنْ وَالٍــ	مِوْ وَالٍــ Dibaca	     Sebab  و   bertemu ن
+
+    \nDan hukum bacaan idgham bighunnah mempunyai syarat yaitu: harus terjadi dalam dua kalimat. Maksudnya antara nun mati dan tanwin harus terpisah dengan huruf idgham bighunnah.
+
+    \nJika syarat tersebut tidak dipenuhi,yaitu nun mati atau \ntanwin bertemu salah satu huruf idgham bighunnah dalam \nsatu kalimat, maka cara membacanya terang (izhar). \nUlama tajwid menyebutkan dengan istilah izhar\n kilmi ( اظهار كلمى ),\n karena kejadian izhar berdasarkan satu kalimat. Atau \ndisebut izhar wajib ( اظهار واجب ) karena sangat wajib \nmeng-izharkan (menerangkan) bacaannya.
+    \nContoh:
+
+    \nTertulis	صِنْوَانٌ	Dibaca صِنْوَانٌ	Sebab ن bertemu و
+    \nTertulis	قِنْوَانٌ	قِنْوَانٌ Dibaca	ن bertemu و Sebab
+    \nTertulis	بُنْيَانٌ	بُنْيَانٌ Dibaca	Sebab ن bertemu ى
+
+    \n\nIdgham Bilaghunnah cara membaca nun mati atau tanwin dengan memasukkanya pada huruf lam dan ra’ tanpa mendengung.
+    \nKarena itu, huruf idgham bilaghunnah terdapat dua macam,\n yaitu لر ( lam dan ra’ ). Jika ada nun mati atau tanwin\n bertemu salah satu dari kedua huruf itu, maka wajib dimasukkan padanya tanpa mendengung.
+    \nContoh :
+
+    \nTertulis	مِنْ لَدُنْهُ	   مِلْ لَدُنْه   ُDibaca       	Sebab     ن bertemu ل
+    \nTert	 رَحْمَةً لِّلْعَالَمِيْنَDibaca رَحْمَتَلْ لِّلْعَالَمِيْنَ	Sebab ـــًــ bertemu ل
+    "/>
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

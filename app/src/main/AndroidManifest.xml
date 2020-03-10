@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rahadithiaprayudha.cobaa">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/alquran"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".tentang"
+            android:label="Tentang"/>
+        <activity android:name=".tajwid"
+            android:label="Tajwid"/>
+        <activity android:name=".alquran"
+            android:label="Al-Quran"/>
+        <activity android:name=".pendahuluan"
+            android:label="Pendahuluan"/>
+        <activity android:name=".idghom"
+            android:label="Idghom"/>
+        <activity android:name=".iqlab"
+            android:label="Iqlab"/>
+        <activity android:name=".ikhfa"
+            android:label="Ikhfa"/>
+        <activity android:name=".izhar"
+            android:label="Izhar"></activity>
+    </application>
+
+</manifest>

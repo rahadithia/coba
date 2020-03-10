@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="390dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".iqlab">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:text="Iqlab \n \n
+
+\n a. Pengertian Iqlab \n
+\n Menurut Muhammad Mahmud, iqlab dalam arti bahasa adalah \n  تَحْوِيْلُ الشَّيْئِ عَنْ وَجْهِهِ \n “mengubah bentuk sesuatu dari asalnya“. \n Dalam arti mengubah huruf nun mati atau tanwin pada huruf iqlab.
+
+\n Sedangkan menurut arti istilah adalah: \n
+
+اَلْاِقْلَابُ هُوَجَعْلُ حَرْفٍ مَكَانَ حَرْفٍ اَخَرَمَعَ مُرَاعَاةِ اْلغُنَّةِ
+\n “Menjadikan huruf satu pada ketentuan huruf lain disertai mendengung” \n
+
+Dari pengertian diatas, dapat disimpulkan bahwa nun mati atau tanwin ketika bertemu dengan huruf iqlab, maka nun mati atau tanwin tersebut harus dibaca sebagaimana bacaan iqlab disertai mendengung.
+
+\n\n b. Huruf iqlab
+\n\n Huruf iqlab hanya satu, yaitu ba’ ( ب ). Maka ketika ada nun mati atau tanwin bertemu dengan huruf ba’, maka nun mati atau tanwin itu harus dibaca mim ( م ) karena bacaan iqlab.
+\n Contoh :
+
+\n Tertulis	اَنْبِئْهُمْ	    Dibaca  اَمْبِئْهُمْ	  ب bertemu ن      Sebab
+\n Tertulis	عَلِيْمٌ بِذَاتٍ	Dibaca  عَلِيْمُمْ بِذَاتٍ	Sebab    ــٌـ bertemu ب
+"/>
+</android.support.constraint.ConstraintLayout>

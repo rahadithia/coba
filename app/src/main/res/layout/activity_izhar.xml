@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="390dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".izhar">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:text="IZHAR \n \n
+
+\n a. Pengertian Izhar \n
+\n Muhammad Mahmud menyatakan bahwa dalam arti bahasa, \n izhar berarti : اَلْبَيَانْ yakni terang, jelas, tampak. \n Sedangkan menurut istilah adalah: \n
+
+الإِظْهَارُ هُوَ إِخْرَاجُ كُلِّ حَرْفٍ مِنْ مَخْرَجِهِ مِنْ غَيْرِ غُنَّةٍ
+\n “Mengeluarkan setiap huruf dari tempat keluarnya tanpa disertai berdengung”
+
+\n Pengertian itu menjelaskan agar cara membaca nun mati atau tanwin jelas dan terang, tanpa disertai dengung jika bertemu dengan huruf izhar.
+
+\n \nb. Huruf-huruf izhar \n
+\n Huruf izhar   ada 6 macam, keenam huruf itu disebut huruf halqi ( الحَلْقِي )
+\n karena makhraj huruf izhar pada halqi (tenggorokan).
+\n Adapun huruf-huruf halqi adalah : ء هـ ح خ ع غ . \nDengan keenam huruf itu pula, maka bacaan ini bisa disebut \ndengan izhar halqi. ( اِظْهَارْ حَلْقِي )
+\n Contoh :
+
+\n Tertulis	يَنْئَوْنَ	Dibaca  يَنْئَوْن       Sebab	  ن bertemu ء
+\n Tertulis	كُلٌّ اٰمَنَ	Dibaca  كُلّنْ اٰمَنَ     Sebab	ـــٌـ bertemu ء
+\n Tertulis	يَنْهَوْنَ	   يَنْهَوْنَ  Dibaca	Sebab   ن bertemu ه
+"/>
+
+</android.support.constraint.ConstraintLayout>

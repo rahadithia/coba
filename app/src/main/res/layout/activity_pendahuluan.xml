@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="390dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".pendahuluan">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:text="PENDAHULUAN \n
+        \n\n
+
+Kata tajwid menurut bahasa latin adalan Tahsin (membaguskan), \n sedangkan Tajwid menurut istilah adalah ilmu yang mebahas kaidah-kaidah dan tata cara membaca Al-Qura'an dengan baik dan benar.
+
+\n Hukum mempelajari Ilmu Tajwid adalah Fardu 'Ain. faidahnya adalah menjaga lisan dari kesalahan membaca AL-Qur'an.
+
+\n Objek pembahasan Ilmu Tajwid adalah huruf-huruf hijaiyah yang berjumlah 28 (alif dan lam tidak dihitung).
+huruf-huruf hijaiyah sebagai berikut : \n
+
+ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن و ه لا ء ي
+
+
+
+"/>
+
+</android.support.constraint.ConstraintLayout>

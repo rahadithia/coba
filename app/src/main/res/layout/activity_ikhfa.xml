@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="390dp"
+    android:layout_gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".ikhfa">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:text="Ikhfa
+
+\n\n\na. Pengertian Ikhfa’
+\n\nMenurut Muhammad Mahmud, ikhfa dalam arti bahasa adalah: السَّتْرُ “menutupi atau menyembunyikan“.
+
+\nSedangkan dalam arti istilah adalah: \n
+
+اَلْاِخْفَاءُهُوَعِبَارَةٌ عَنِ النُّطْقِ بِحَرْفٍ سَاكِنٍ عَارٍاَىْ خَالٍــ عَنْ التَّشْدِيْدِ عَلَى صِفَةٍ بَيْنَ الاِظْهَارِ وَالْاِدْغَامِ مَعَ بَقَاءِ الغُنَّةِ فِى اْلحَرْفِ
+\n“Ikhfa’ adalah mengungkapkan huruf yang mati dan tersembunyi atau sunyi dari tasydid pada bacaan antara terang dan memasukkan dengan mendengungkan pada huruf pertama”.
+
+\nPengertian tersebut tampak jelas bahwa bacaan yang samar-samar antara izhar (terang) dengan idgham (memasukkan pada yang lain) disertai mendengung, atau ketika mengucapkan nun mati atau tanwin seakan-akan bertemu huruf “ng” seperti dalam bahasa Indonesia.
+
+\n\nb. Huruf-huruf Ikhfa’
+\n\nHuruf ikhfa’ sebanyak 15 macam, yang terkumpul pada awal kata berikut ini:\n
+
+صِفْ ذَاثَنَاكَمْ جَادَ شَخْصٌ قَدْسَمَا # دُمْ طَيِّبًا زِدْ فِى تُقًى ضَعْ ظَالِمًا
+
+\nDari kelima belas huruf ikhfa’ itu terdapat 3 klasifikasi, yaitu:
+
+ \nIkhfa’ A’la ( اِخْفَاءُ اَعْلٰى ), yaitu bacaan ikhfa’ yang lebih lama dari ghunnahnya, adapun hurufnya ada tiga, yaitu: ت, د,ط    contoh: مِنْ دُوْنِ , مِنْ طَيِّبَاتِ
+ \nIkhfa’ Adna ( اِخْفَاء اَدْنٰى ), yaitu bacaan ikhfa’ yang lebih pendek dari ghunnah, adapun hurufnya ada dua : ق , ك contoh:مَنْ كَانَ , مِنْ قَبْلِ
+ \nIkhfa’ Ausath ( اِخْفَاءْ اَوْسَطْ ), yaitu antara bacaan ikhfa’ dengan ghunnah sama-sama sedang, adapun hurufnya yaitu selain dari bagian ikhfa A’la dan ikhfa’ Adna. Contohnya: اَنْفُسَكُمْ , اَنْزَلْنَاهُ
+\nContoh:
+
+\nTertulis	اُنْصُرْنَ	    Dibaca   اُنْصُرْن       sebabَ	ن bertemu ص
+\nTertulis	رِجَالٌ صَدَقُوْا	Dibaca  رِجَالُنْ صَدَقُوْا	 sebab  ــٌـ bertemu ص
+\nTertulis	مُنْذِرٌ	    Dibaca   مُنْذِرُنْ 	     sebab    ن bertemu ذ
+" />
+
+</android.support.constraint.ConstraintLayout>

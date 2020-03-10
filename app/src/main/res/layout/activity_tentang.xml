@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="380dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".tentang">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:text="TENTANG APLIKASI
+
+\n\nAplikasi Al-Qur'an mobile ini merupakan salah satu inovasi  pembelajaran Al-Qur'an,
+dengan memberikan beberapa fitur yang akan sangat berguna dalam proses pembelajaran Al-Qur'an.
+Fitur tamban yang menurut kami sangat bergua yaitu fitur TAJWID, yang mana didalam nya terdapat pemba
+hasan tentang ilmu TAJWID yang lengkap.
+
+
+\n\nAplikasi ini di buat oleh Kelompok 5 sebagai tugas UAS
+
+\nAnggota Kelompok 5 :
+\nAgung Fachruddin
+\nRahadithia Prayudha
+\nJavid Al Haq
+\nEtna Syirfa"
+        android:id="@+id/teks1"/>
+</android.support.constraint.ConstraintLayout>
